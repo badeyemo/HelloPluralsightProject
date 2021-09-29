@@ -10,7 +10,7 @@
     "test-watch": "npm-run-all  -p -r test-watch:code",
     "test-watch:code": "mocha test/ --bail --watch --watch-extensions html"
   },
-  "author": "Adam Fortuna",
+  "author": "Adeyemo Bamidele Victor",
   "license": "MIT",
   "devDependencies": {
     "chai": "^3.5.0",
